@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GamingSeries
 - 👀 I’m interested in Python and Java
-- 🌱 I’m currently in Computer Science Second Year
+- 🌱 I’m currently in Computer Science Third Year
 - 💞️ I’m looking to collaborate on many different projects
 - 📫 muneebfarooq1@icloud.com
 
