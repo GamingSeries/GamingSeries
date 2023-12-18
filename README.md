@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @GamingSeries
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently in Computer Science Third Year
-- 💞️ I’m looking to collaborate on many different projects
-- 📫 muneebfarooq1@icloud.com
+### Hi there 👋
 
-<!---
-GamingSeries/GamingSeries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Views](https://komarev.com/ghpvc/?username=GamingSeriesa&style=flat&label=Profile+Visits&color=brightgreen)
+
+<img align="center" src="/metrics-plugin.svg" alt="Metrics" width="400">
