@@ -1,6 +1,4 @@
-![](https://komarev.com/ghpvc/?username=GamingSeries&color=green)
-
-# Hi there, I'm GamingSeries! 👋
+# Hey there, I'm GamingSeries! 👋
 
 ## 🚀 About Me
 I'm passionate about coding and building awesome projects!
