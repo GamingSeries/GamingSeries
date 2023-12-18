@@ -9,13 +9,13 @@ I'm passionate about coding and building awesome projects!
 🐍 Django | ☕ Java
 
 ### Frontend
-🌐 JavaScript | 💻 TypeScript | 🌈 HTML | 🎨 CSS | ⚛️ Next.js
+JavaScript | TypeScript | HTML | CSS | Next.js
 
 ### Databases
-📦 SQLite | 🐘 PostgreSQL
+SQLite | PostgreSQL
 
 ### Languages
-🐍 Python | ☕ Java
+Python | Java
 
 ## 📊 GitHub Stats
 ![GamingSeries's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GamingSeries&show_icons=true&theme=dark)
