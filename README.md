@@ -5,7 +5,7 @@ I'm passionate about coding and building awesome projects!
 
 ## 🛠️ Technologies & Tools
 ### Backend
-- Python (Django)
+- Django
 - Java
 
 ### Frontend
@@ -18,6 +18,10 @@ I'm passionate about coding and building awesome projects!
 ### Databases
 - SQLite
 - PostgreSQL
+
+### Languages
+- Python
+- Java
 
 ## 📊 GitHub Stats
 ![GamingSeries's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GamingSeries&show_icons=true&theme=dark)
