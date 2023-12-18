@@ -1,11 +1,11 @@
 # Hey there, I'm GamingSeries! 👋
 
 ## 🚀 About Me
-Hey there! I'm GamingSeries, a passionate developer who loves crafting innovative solutions and exploring new technologies. With a diverse skill set encompassing Python, Java, JavaScript, and more, I enjoy diving into both backend and frontend realms to create robust and user-friendly applications.
+Hey there! I'm GamingSeries, a Trent University student and a passionate developer. I love creating solutions and exploring the world of technology. I work with Python, Java, JavaScript, and more, building applications on both the backend and frontend.
 
-I thrive on challenges, leveraging my expertise in Django and Next.js to build scalable backend architectures and captivating user interfaces. Whether it's tinkering with databases like SQLite and PostgreSQL or fine-tuning code in HTML and CSS, I'm dedicated to delivering efficient, elegant solutions.
+I enjoy tackling challenges, using tools like Django and Next.js to develop robust backend systems and engaging user interfaces. I also delve into databases like SQLite and PostgreSQL while tweaking HTML and CSS for polished results.
 
-When I'm not coding, you'll find me exploring the latest tech trends, gaming, or diving into a good book. Let's connect and create something awesome together!
+When I'm not coding, I'm exploring the latest tech trends, gaming, or immersed in a good book. Let's connect and collaborate on something amazing!
 
 ## 🛠️ Technologies & Tools
 
