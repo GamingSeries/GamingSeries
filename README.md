@@ -10,7 +10,7 @@ When I'm not coding, you'll find me exploring the latest tech trends, gaming, or
 ## 🛠️ Technologies & Tools
 
 ### Backend
-🐍 Django | ☕ Java
+Django | Java
 
 ### Frontend
 JavaScript | TypeScript | HTML | CSS | Next.js
