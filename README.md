@@ -1,7 +1,7 @@
 # Hey there, I'm GamingSeries! 👋
 
 ## 🚀 About Me
-Hey there! I'm GamingSeries, a Trent University student and a passionate developer. I love creating solutions and exploring the world of technology. I work with Python, Java, JavaScript, and more, building applications on both the backend and frontend.
+Hey there! I'm Muneeb, a Trent University student and a passionate developer. I love creating solutions and exploring the world of technology. I work with Python, Java, JavaScript, and more, building applications on both the backend and frontend.
 
 I enjoy tackling challenges, using tools like Django and Next.js to develop robust backend systems and engaging user interfaces. I also delve into databases like SQLite and PostgreSQL while tweaking HTML and CSS for polished results.
 
