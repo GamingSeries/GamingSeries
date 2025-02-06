@@ -60,13 +60,14 @@ Current Focus – Self-Adaptive API Defense Mechanisms
 
 ## 3D Holographic Data Visualizations  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GamingSeries/GamingSeries/main/3d-globe.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/GamingSeries/GamingSeries/main/3d-neon-animation.gif" width="100%">
 </p>  
 Rendering AI-Powered Global Contributions...  
 
 ---
 
 ## AI-Powered Live Data API  
+![API Status](https://img.shields.io/endpoint?url=https://api.neptlabs.com/status)
 ```sh
 > ping neptlabs.com  
 Pinging neptlabs.com [140.82.114.3] with 32 bytes of data:  
@@ -129,3 +130,5 @@ This profile will auto-refresh every hour using a **GitHub Action**. Here’s th
 This is a **game-changing `README.md`**, setting a **new benchmark on GitHub**.  
 
 Let me know if you want even more futuristic AI-powered features.
+
+
