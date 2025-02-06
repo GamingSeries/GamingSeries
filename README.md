@@ -1,97 +1,86 @@
-# Muneeb Farooq | Architect of the Future
+<h1 align="center">Muneeb Farooq – Architect of the Future</h1>
 
-![Neon Futuristic Banner](https://source.unsplash.com/1600x400/?cyberpunk,technology)
-
-### **Beyond the Present | Architecting the Future**  
-- Founder & CEO: [Neptune Labs](https://neptlabs.com)
-- Building: [API Labs](https://neptlabs.com)
-- Innovator | AI Engineer | System Architect
-- Dubai <> Canada | Global Disruptor
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&center=true&vCenter=true&width=1000&lines=Bringing+2090+to+the+Present;AI+Cybersecurity+Visionary;Building+Hyper-Intelligent+Systems;Quantum+Computing+in+Action" />
+</p>
 
 ---
 
-## 🌐 **Live System Stats**  
+## About Me
+👋 Hey there! I’m **Muneeb Farooq**, a developer, AI enthusiast, and innovator.  
+I work at the intersection of **AI, cybersecurity, and backend development**, designing systems that redefine automation and efficiency.
+
+- Building **OneAPI** – A futuristic API authentication platform
+- Researching **QRVI** – Quantum Resonance Vehicle Identification for next-gen tracking
+- Focused on **AI Security, API Dev, Cyber Protection**
+- Tech Stack: **Next.js | NestJS | PostgreSQL | AWS | Python | TypeScript**
+- Exploring AI-powered security tools & ML-based fraud detection
+
+---
+
+## Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres,aws,react,ts,python,cpp" />
+</p>
+
+---
+
+## GitHub Stats
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=muneebfarooq&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneebfarooq&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebfarooq&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Latest Projects
+📌 [OneAPI](https://github.com/muneebfarooq/OneAPI) – Secure, seamless API authentication  
+📌 [API Labs](https://github.com/muneebfarooq/APILabs) – AI-driven API management  
+📌 [QRVI (Quantum Resonance Vehicle Identification)](https://github.com/muneebfarooq/QRVI) – Next-gen vehicle tracking system  
+
+🔗 **See more projects:** [GitHub Repositories](https://github.com/muneebfarooq?tab=repositories)
+
+---
+
+## GitHub Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=muneebfarooq&theme=react-dark" />
+</div>
+
+---
+
+## Current Focus
+✔ Optimizing **OneAPI** for large-scale authentication  
+✔ Developing **QRVI System** for advanced vehicle recognition  
+✔ Exploring **LLMs & Next.js enhancements**  
+
+---
+
+## Let's Connect
+📫 **Email:** info@neptlabs.com  
+🌐 **Website:** [Neptune Labs](https://neptlabs.com)  
+🔗 **LinkedIn:** [Muneeb Farooq](https://www.linkedin.com/in/muneebfarooq)  
+
+---
+
+## 🚀 Live System Stats (Auto-Updating)
 ```yaml
-# Real-time Updates
-OS: $(uname -srm)  
-Uptime: $(uptime -p)  
-CPU Usage: $(grep 'cpu ' /proc/stat | awk '{usage=($2+$4)*100/($2+$4+$5)} END {print usage "%"}')  
-RAM Usage: $(free -m | awk 'NR==2{printf "%.2f%%", $3*100/$2 }')  
+Fetching real-time data...
 ```
-*(Auto-updating using GitHub Actions)*
 
----
-
-## **Currently Building**
-### [OneAPI](https://oneapi.neptlabs.com)  
-> **A universal API authentication & marketplace**
-- Single sign-on API management
-- Integrated billing & monetization
-- Seamless developer experience
-
-### QRVI System (Quantum Resonance Vehicle Identification)  
-> **Next-gen license plate alternative for vehicle tracking**
-- Works in extreme weather
-- Faster than traditional ANPR
-- Researching EM signature analysis
-
----
-
-## **AI-Powered Repositories**
-### **Autonomous AI Agents**
-- AI Assistants that take real-world actions
-- Integrations with Next.js, NestJS, PostgreSQL
-- Researching self-evolving codebases
-
-### **AI & ML Models**
-- Fine-tuning transformer models
-- Predictive analytics & AI-driven business intelligence
-- Secure AI API deployment
-
----
-
-## **Cosmic Feed** *(Live space events fetched via NASA API)*  
+## 🚀 Cosmic Feed
 ```yaml
-Fetching latest space weather data...  
-Latest Solar Flare: [Live Data]  
-Next Satellite Launch: [Live Data]  
-```
-
----
-
-## **Dynamic GitHub Activity** *(Auto-updating)*
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muneebfarooq&theme=react-dark)
-
----
-
-## **My Setup**  
-![MacBook Pro M3 Pro](https://img.shields.io/badge/Apple-M3%20Pro%2036GB%20RAM%20%7C%201TB%20SSD-blue?style=flat&logo=apple)
-![Next.js](https://img.shields.io/badge/Next.js-Framework-lightgrey?style=flat&logo=next.js)
-![NestJS](https://img.shields.io/badge/NestJS-Backend-red?style=flat&logo=nestjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat&logo=postgresql)
-
----
-
-## **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MuneebFarooq-blue?style=flat&logo=linkedin)](https://linkedin.com/in/muneebfarooq)  
-[![Website](https://img.shields.io/badge/Website-NeptuneLabs.com-orange?style=flat&logo=internetexplorer)](https://neptlabs.com)  
-[![Email](https://img.shields.io/badge/Email-info@neptlabs.com-red?style=flat&logo=gmail)](mailto:info@neptlabs.com)
-
----
-
-### **"The future isn’t written yet—I'm coding it."**
-
-## 🌐 Live System Stats
-```yaml
-OS: Linux 6.8.0-1020-azure x86_64
-Uptime: up 2 minutes
-CPU Usage: 
-RAM Usage: 
-```
-## 🌐 Live System Stats
-```yaml
-OS: Linux 6.8.0-1020-azure x86_64
-Uptime: up 0 minutes
-CPU Usage: 
-RAM Usage: 
+Latest Solar Flare: Fetching live data...
+Next Satellite Launch: Fetching live data...
 ```
