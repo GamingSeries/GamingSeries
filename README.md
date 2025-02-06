@@ -1,36 +1,67 @@
-## 🚀 About Me
-Hey there! I'm Muneeb, a Trent University student and a passionate developer. I love creating solutions and exploring the world of technology. I work with Python, Java, JavaScript, and more, building applications on both the backend and frontend.
+<h1 align="center">🚀 GamingSeries – Pushing the Boundaries of Tech</h1>
 
-I enjoy tackling challenges, using tools like Django and Next.js to develop robust backend systems and engaging user interfaces. I also delve into databases like SQLite and PostgreSQL while tweaking HTML and CSS for polished results.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=0AFFEF&center=true&vCenter=true&width=600&lines=Code+.+Build+.+Innovate;AI+%7C+Cyber+Security+%7C+Next-Gen+Tech;Building+the+Future+One+Project+at+a+Time;Transforming+Ideas+into+Reality" />
+</p>
 
-When I'm not coding, I'm exploring the latest tech trends, gaming, or immersed in a good book. Let's connect and collaborate on something amazing!
+---
 
-## 🛠️ Technologies & Tools
+### 🛠️ **About Me**
+👋 Hey there! I’m **GamingSeries**, a developer, AI enthusiast, and innovator.  
+I work at the intersection of **AI, cybersecurity, and backend development**, designing systems that redefine automation and efficiency.
 
-### Backend
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+- 🔥 **Building Next-Gen AI & API Systems**
+- 🚀 **Currently Working On:** [OneAPI](https://github.com/GamingSeries/OneAPI) – Universal API Authentication
+- 🛡️ **Focused On:** AI Security, API Dev, Cyber Protection
+- 🌍 **Tech I Use:** **Next.js | NestJS | PostgreSQL | AWS | Python | TypeScript**
+- 🛰️ **Future Goals:** AI-powered security tools, ML-based fraud detection
 
-### Frontend
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+---
 
-### Databases
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+### **🛸 Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres,aws,react,ts,python,cpp" />
+</p>
 
-### Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+---
 
+### 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GamingSeries&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamingSeries&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamingSeries&layout=compact&theme=radical" />
+</p>
 
-## 📊 GitHub Stats
-![GamingSeries's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GamingSeries&show_icons=true&theme=dark)
+---
 
-## 💼 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GamingSeries&layout=compact&theme=dark)
+### 🚀 **Latest Projects**
+📌 [OneAPI](https://github.com/GamingSeries/OneAPI) – Secure, seamless API authentication  
+📌 [AI Labs](https://github.com/GamingSeries/AILabs) – AI-driven API management  
+📌 [Quantum Resonance Vehicle Identification (QRVI)](https://github.com/GamingSeries/QRVI) – Next-gen vehicle recognition  
 
-## 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=GamingSeries&theme=dark)
+🔗 **See more projects:** [GitHub Repositories](https://github.com/GamingSeries?tab=repositories)
+
+---
+
+### 🔍 **GitHub Activity**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GamingSeries&theme=react-dark" />
+</p>
+
+---
+
+### 💡 **Current Focus**
+✔ Optimizing **OneAPI** for large-scale authentication  
+✔ Developing **QRVI System** for advanced vehicle recognition  
+✔ Exploring **LLMs & Next.js enhancements**  
+
+---
+
+### 🤝 **Let's Connect**
+📫 **Email:** oneapi@neptlabs.com  
+🌐 **Website:** [API Labs](https://neptlabs.com)  
+🔗 **LinkedIn:** [GamingSeries](https://www.linkedin.com/in/gamingseries)  
+
+---
+
+This version keeps your profile **clean, futuristic, and functional**, while highlighting **your work, expertise, and real-time GitHub stats**. Let me know if you want any changes! 🚀
