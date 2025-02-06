@@ -4,21 +4,48 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&center=true&vCenter=true&width=1000&lines=🚀+Bringing+2050+to+the+Present;AI+Cybersecurity+Visionary;Building+Hyper-Intelligent+Systems;Quantum+Computing+in+Action" />
 </p>
 
+<style>
+  body {
+    background: #000;
+    color: #0AFFEF;
+    font-family: 'Orbitron', sans-serif;
+    overflow-x: hidden;
+  }
+  .cyber-container {
+    text-align: center;
+    padding: 20px;
+  }
+  .cyber-glow {
+    text-shadow: 0 0 10px #0AFFEF, 0 0 20px #0AFFEF, 0 0 40px #0AFFEF;
+  }
+  .matrix-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif');
+    opacity: 0.1;
+    z-index: -1;
+  }
+</style>
+
+<div class="matrix-background"></div>
+
 ---
 
 ## 🧠 **Who Am I?**
 
-👨‍💻 I am **GamingSeries**, a **Cybernetic Engineer & AI Specialist**, designing ultra-secure, AI-driven automation systems. My goal is to **merge human cognition with AI** to power the next era of technology.
+<div class="cyber-container">
+  <h2 class="cyber-glow">👨‍💻 Cybernetic Engineer & AI Specialist</h2>
+  <p>I design ultra-secure AI-driven automation systems merging human cognition with AI to power the next era of technology.</p>
+</div>
 
 🛠️ **Core Competencies:**
 - 🚀 AI-Driven API Security & Quantum AI Computation
 - 🛡️ Cybersecurity, Blockchain, and Web3 Innovations
 - 🤖 LLM & Neural Network Advancements
 - 🌌 Cutting-Edge Automation & AI Orchestration
-
-🛠️ **Advanced Tech Stack:**
-- **Next.js | NestJS | PostgreSQL | AWS | TypeScript | Python | Web3**
-- **Quantum Algorithms | Neural Cryptography | AI Orchestration**
 
 ---
 
@@ -55,12 +82,13 @@
 
 ---
 
-## 🎬 **Super Responsive, Cybernetic UI**
+## 🎬 **Cyberpunk UI & Real-Time Animations**
 
-🌌 **3D Hover & Parallax Scroll Effects:** Immerse in a futuristic interface where elements react dynamically to movement.  
-⚡ **Live GitHub Contributions Feed:** Real-time updates on commits, PRs, and contributions in an ultra-modern UI.  
-💡 **Adaptive AI Theme Engine:** Theme dynamically adjusts to activity patterns, coding intensity, and user interaction.  
-🕶 **Neural-Mode (Dark Mode 2.0):** A self-illuminating UI powered by futuristic neon aesthetics.  
+🔮 **Holographic Text Effects:** Hover over headings for a neon glow.  
+🌌 **3D Parallax Effects:** Scroll to see interactive depth shifts.  
+⚡ **Live Contribution Feed:** Auto-updating GitHub contributions in a cyber dashboard.  
+💡 **Adaptive AI Theming:** Dark/light mode reacts to commit history & time of day.  
+🕶 **Neural-Mode UI:** A self-illuminating futuristic interface.  
 
 ---
 
