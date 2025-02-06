@@ -72,3 +72,15 @@ I work at the intersection of **AI, cybersecurity, and backend development**, de
 🔗 **LinkedIn:** [Muneeb Farooq](https://www.linkedin.com/in/muneebfarooq)  
 
 ---
+## 🌐 Live System Stats
+```yaml
+OS: Linux 6.8.0-1020-azure x86_64
+Uptime: up 2 minutes
+CPU Usage: 
+RAM Usage: 
+```
+## 🚀 Cosmic Feed
+```yaml
+Latest Solar Flare: 
+Next Satellite Launch: Fetching...
+```
