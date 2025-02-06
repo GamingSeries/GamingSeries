@@ -81,3 +81,10 @@ Next Satellite Launch: [Live Data]
 
 ### **"The future isn’t written yet—I'm coding it."**
 
+## 🌐 Live System Stats
+```yaml
+OS: Linux 6.8.0-1020-azure x86_64
+Uptime: up 2 minutes
+CPU Usage: 
+RAM Usage: 
+```
