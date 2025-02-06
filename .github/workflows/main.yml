@@ -1,0 +1,33 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate System Stats
+        run: |
+          echo "## 🌐 Live System Stats" > stats.md
+          echo "\`\`\`yaml" >> stats.md
+          echo "OS: $(uname -srm)" >> stats.md
+          echo "Uptime: $(uptime -p)" >> stats.md
+          echo "CPU Usage: $(grep 'cpu ' /proc/stat | awk '{usage=($2+$4)*100/($2+$4+$5)} END {print usage \"%\"}')" >> stats.md
+          echo "RAM Usage: $(free -m | awk 'NR==2{printf \"%.2f%%\", $3*100/$2 }')" >> stats.md
+          echo "\`\`\`" >> stats.md
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@github.com"
+          git pull
+          cat stats.md >> README.md
+          git add README.md
+          git commit -m "Auto-update README with system stats" || exit 0
+          git push
