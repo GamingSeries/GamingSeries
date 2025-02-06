@@ -1,4 +1,4 @@
-<h1 align="center">🚀 GamingSeries – Pushing the Boundaries of Tech</h1>
+<h1 align="center">🚀 Muneeb Farooq – Pushing the Boundaries of Tech</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=0AFFEF&center=true&vCenter=true&width=600&lines=Code+.+Build+.+Innovate;AI+%7C+Cyber+Security+%7C+Next-Gen+Tech;Building+the+Future+One+Project+at+a+Time;Transforming+Ideas+into+Reality" />
@@ -11,7 +11,6 @@
 I work at the intersection of **AI, cybersecurity, and backend development**, designing systems that redefine automation and efficiency.
 
 - 🔥 **Building Next-Gen AI & API Systems**
-- 🚀 **Currently Working On:** [OneAPI](https://github.com/GamingSeries/OneAPI) – Universal API Authentication
 - 🛡️ **Focused On:** AI Security, API Dev, Cyber Protection
 - 🌍 **Tech I Use:** **Next.js | NestJS | PostgreSQL | AWS | Python | TypeScript**
 - 🛰️ **Future Goals:** AI-powered security tools, ML-based fraud detection
@@ -58,8 +57,8 @@ I work at the intersection of **AI, cybersecurity, and backend development**, de
 ---
 
 ### 🤝 **Let's Connect**
-📫 **Email:** oneapi@neptlabs.com  
+📫 **Email:** info@neptlabs.com  
 🌐 **Website:** [API Labs](https://neptlabs.com)  
-🔗 **LinkedIn:** [GamingSeries](https://www.linkedin.com/in/gamingseries)  
+🔗 **LinkedIn:** [GamingSeries](https://www.linkedin.com/in/muneebfarooq)  
 
 ---
