@@ -22,12 +22,28 @@ jobs:
           echo "RAM Usage: $(free -m | awk 'NR==2{printf \"%.2f%%\", $3*100/$2 }')" >> stats.md
           echo "\`\`\`" >> stats.md
 
+      - name: Fetch NASA Space Data
+        run: |
+          API_KEY="YOUR_NASA_API_KEY"
+          DATA=$(curl -s "https://api.nasa.gov/DONKI/FLR?api_key=$API_KEY")
+          echo "## 🚀 Cosmic Feed" > nasa.md
+          echo "\`\`\`yaml" >> nasa.md
+          if [ "$(echo $DATA | jq -r '.[0].flrID')" != "null" ]; then
+            echo "Latest Solar Flare: $(echo $DATA | jq -r '.[0].flrID')" >> nasa.md
+          else
+            echo "Latest Solar Flare: No recent flares detected." >> nasa.md
+          fi
+          echo "Next Satellite Launch: Fetching..." >> nasa.md
+          echo "\`\`\`" >> nasa.md
+
       - name: Commit and Push Updates
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions@github.com"
-          git pull
+          git pull origin main
+          sed -i "/## 🌐 Live System Stats/,$ d" README.md
           cat stats.md >> README.md
+          cat nasa.md >> README.md
           git add README.md
-          git commit -m "Auto-update README with system stats" || exit 0
-          git push
+          git commit -m "Auto-update README with system stats & cosmic feed" || exit 0
+          git push origin main
