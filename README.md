@@ -36,10 +36,13 @@ I work at the intersection of **AI, cybersecurity, and backend development**, de
     </td>
   </tr>
   <tr>
-    <div align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=GamingSeries&theme=react-dark" />
-    </div>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamingSeries&layout=compact&theme=radical" />
+    </td>
   </tr>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GamingSeries&theme=react-dark" />
+  </div>
 </table>
 
 ---
