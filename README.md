@@ -69,6 +69,6 @@ I work at the intersection of **AI, cybersecurity, and backend development**, de
 ## 🤝 **Let's Connect**
 📫 **Email:** info@neptlabs.com  
 🌐 **Website:** [Neptune Labs](https://neptlabs.com)  
-🔗 **LinkedIn:** [GamingSeries](https://www.linkedin.com/in/muneebfarooq)  
+🔗 **LinkedIn:** [Muneeb Farooq](https://www.linkedin.com/in/muneebfarooq)  
 
 ---
