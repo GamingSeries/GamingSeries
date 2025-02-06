@@ -78,17 +78,9 @@ Auto-Syncing Every Hour
 ---
 
 ## Cyberpunk Evolution  
-```html
-<style>  
-  @keyframes cyber-glow {  
-    0% { text-shadow: 0 0 5px #0affef, 0 0 10px #0affef; }  
-    50% { text-shadow: 0 0 10px #0affef, 0 0 20px #0affef; }  
-    100% { text-shadow: 0 0 5px #0affef, 0 0 10px #0affef; }  
-  }  
-  h1 { animation: cyber-glow 2s infinite alternate; }  
-</style>  
-<h1 align="center">The Future of AI is Now</h1>  
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GamingSeries/GamingSeries/main/cyberpunk-animation.gif" width="100%">
+</p>
 Live Terminal Data – Embedded Console Updates Every Hour  
 Quantum Security Layer – AI CyberDefense in Real-Time  
 Autonomous AI Learning – Self-Optimizing API Architectures  
@@ -137,4 +129,3 @@ This profile will auto-refresh every hour using a **GitHub Action**. Here’s th
 This is a **game-changing `README.md`**, setting a **new benchmark on GitHub**.  
 
 Let me know if you want even more futuristic AI-powered features.
-
