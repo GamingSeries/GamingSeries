@@ -1,71 +1,72 @@
-<h1 align="center">🚀 Muneeb Farooq – Pioneering the Future of Tech</h1>
+<h1 align="center">🔵 Muneeb Farooq – The AI Architect of the Future</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+2050;AI+Cybersecurity+Revolution;Building+Hyper-Advanced+Systems;Redefining+Tech+With+Futuristic+Visions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&center=true&vCenter=true&width=1000&lines=🚀+Bringing+2050+to+the+Present;AI+Cybersecurity+Visionary;Building+Hyper-Intelligent+Systems;Quantum+Computing+in+Action" />
 </p>
 
 ---
 
-### 🛠️ **About Me**
-👋 Greetings, traveler! I am **GamingSeries**, a developer from the future, pushing the limits of AI, cybersecurity, and automation.  
-I engineer next-generation systems that power ultra-intelligent digital ecosystems.
+## 🧠 **Who Am I?**
 
-- 🌌 **Architecting AI & API Megastructures**
-- 🛡️ **Mission:** AI Defense, API Evolution, Cybernetic Security
-- 🖥️ **Tech Arsenal:** **Next.js | NestJS | PostgreSQL | AWS | Python | TypeScript**
-- 🤖 **Future Vision:** AI-powered quantum security, decentralized intelligence
+👨‍💻 I am **GamingSeries**, a **Cybernetic Engineer & AI Specialist**, designing ultra-secure, AI-driven automation systems. My goal is to **merge human cognition with AI** to power the next era of technology.
+
+🛠️ **Core Competencies:**
+- 🚀 AI-Driven API Security & Quantum AI Computation
+- 🛡️ Cybersecurity, Blockchain, and Web3 Innovations
+- 🤖 LLM & Neural Network Advancements
+- 🌌 Cutting-Edge Automation & AI Orchestration
+
+🛠️ **Advanced Tech Stack:**
+- **Next.js | NestJS | PostgreSQL | AWS | TypeScript | Python | Web3**
+- **Quantum Algorithms | Neural Cryptography | AI Orchestration**
 
 ---
 
-### **🛸 Hyper-Futuristic Tech Stack**
+## 🔥 **Next-Gen Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres,aws,react,ts,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres,aws,react,ts,python,cpp,graphql,docker,kubernetes,solidity,go,fastapi" />
 </p>
 
 ---
 
-### 📈 **GitHub Stats – A Live Neural Display**
+## 📡 **Live GitHub Neural Dashboard**
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GamingSeries&show_icons=true&theme=tokyonight&custom_title=Next-Gen+Developer" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamingSeries&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamingSeries&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GamingSeries&show_icons=true&theme=merko&title_color=0AFFEF&icon_color=00FFFF&border_color=0AFFEF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamingSeries&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamingSeries&layout=compact&theme=merko" />
 </div>
 
 ---
 
-### 🚀 **Projects from 2050**
-📌 [OneAPI](https://github.com/GamingSeries/OneAPI) – Zero-latency, AI-powered API authentication  
-📌 [AI Labs](https://github.com/GamingSeries/AILabs) – AI-driven API quantum management  
-📌 [Quantum Resonance Vehicle Identification (QRVI)](https://github.com/GamingSeries/QRVI) – Next-gen vehicle recognition with neural resonance tech  
+## 🚀 **Projects from the Future**
+📌 [OneAPI](https://github.com/GamingSeries/OneAPI) – AI-powered quantum-secured API authentication  
+📌 [AI Labs](https://github.com/GamingSeries/AILabs) – AI-managed decentralized API ecosystem  
+📌 [Quantum Resonance Vehicle Identification (QRVI)](https://github.com/GamingSeries/QRVI) – Next-gen vehicle recognition via quantum resonance  
 
-🔗 **Access all futuristic projects:** [GitHub Repositories](https://github.com/GamingSeries?tab=repositories)
+🔗 **Explore the AI Matrix:** [GitHub Repositories](https://github.com/GamingSeries?tab=repositories)
 
 ---
 
-### 🔍 **Live GitHub Activity Matrix**
+## 🌐 **AI-Driven Interactive Dashboard**
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GamingSeries&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GamingSeries&theme=react-dark&custom_title=Real-Time+Commit+Matrix" />
 </div>
 
 ---
 
-### 💡 **Active Galactic Projects**
-✔ Enhancing **OneAPI** with self-learning security protocols  
-✔ Advancing **QRVI System** with quantum recognition patterns  
-✔ Unlocking **AI-powered decentralized intelligence systems**  
+## 🎬 **Super Responsive, Cybernetic UI**
+
+🌌 **3D Hover & Parallax Scroll Effects:** Immerse in a futuristic interface where elements react dynamically to movement.  
+⚡ **Live GitHub Contributions Feed:** Real-time updates on commits, PRs, and contributions in an ultra-modern UI.  
+💡 **Adaptive AI Theme Engine:** Theme dynamically adjusts to activity patterns, coding intensity, and user interaction.  
+🕶 **Neural-Mode (Dark Mode 2.0):** A self-illuminating UI powered by futuristic neon aesthetics.  
 
 ---
 
-### 🔮 **Interactive Animations & Real-time Data**
-🎬 **Hover & Scroll Animations:** A fully dynamic experience that reacts to mouse movement and scrolling effects.  
-🚀 **Real-Time Contributions & Stats:** A futuristic display that updates live, tracking real-time GitHub commits.  
-💡 **Dynamic AI-powered Themes:** Theme adapts to time-of-day and live coding sessions.  
-
----
-
-### 🤝 **Connect with the Future**
-📫 **Neural Uplink:** info@neptlabs.com  
-🌐 **Central AI Hub:** [Neptune Labs](https://neptlabs.com)  
-🔗 **Cybernetic Profile:** [GamingSeries](https://www.linkedin.com/in/muneebfarooq)  
+## ⚡ **Join the Cybernetic Revolution**
+📫 **Encrypted Contact:** info@neptlabs.com  
+🌐 **Quantum Hub:** [Neptune Labs](https://neptlabs.com)  
+🔗 **AI Identity:** [GamingSeries](https://www.linkedin.com/in/muneebfarooq)  
 
 ---
