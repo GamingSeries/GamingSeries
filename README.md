@@ -25,11 +25,21 @@ I work at the intersection of **AI, cybersecurity, and backend development**, de
 ---
 
 ### 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GamingSeries&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamingSeries&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamingSeries&layout=compact&theme=radical" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=GamingSeries&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamingSeries&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamingSeries&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -43,9 +53,9 @@ I work at the intersection of **AI, cybersecurity, and backend development**, de
 ---
 
 ### 🔍 **GitHub Activity**
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GamingSeries&theme=react-dark" />
-</p>
+</div>
 
 ---
 
