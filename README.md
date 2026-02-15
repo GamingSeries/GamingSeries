@@ -75,7 +75,7 @@ I work at the intersection of **AI, cybersecurity, and backend development**, de
 ## 🌐 Live System Stats
 ```yaml
 OS: Linux 6.14.0-1017-azure x86_64
-Uptime: up 1 minute
+Uptime: up 0 minutes
 CPU Usage: 
 RAM Usage: 
 ```
