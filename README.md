@@ -84,3 +84,15 @@ RAM Usage:
 Latest Solar Flare: 
 Next Satellite Launch: Fetching...
 ```
+## 🌐 Live System Stats
+```yaml
+OS: Linux 6.11.0-1018-azure x86_64
+Uptime: up 6 minutes
+CPU Usage: 
+RAM Usage: 
+```
+## 🚀 Cosmic Feed
+```yaml
+Latest Solar Flare: 
+Next Satellite Launch: Fetching...
+```
