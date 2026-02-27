@@ -87,7 +87,7 @@ Next Satellite Launch: Fetching...
 ## 🌐 Live System Stats
 ```yaml
 OS: Linux 6.14.0-1017-azure x86_64
-Uptime: up 18 minutes
+Uptime: up 1 minute
 CPU Usage: 
 RAM Usage: 
 ```
