@@ -3,17 +3,16 @@
 ---
 
 ## **About Me**
- Hey there! I’m **GamingSeries**, a developer  
-I work at the intersection of **cybersecurity, and backend development**, designing systems that redefine automation and efficiency.
+ Hey there! I’m Muneeb, a developer  
+I work at the intersection of cybersecurity, and backend development, designing systems that redefine automation and efficiency.
 
--  **Building Next-Gen AI & API Systems**
 -  **Focused On:** API Dev, Cyber Protection
 -  **Tech I Use:** **Next.js | NestJS | PostgreSQL | AWS | Python | TypeScript**
 -  **Future Goals:** AI-powered security tools, ML-based fraud detection
 
 ---
 
-## ** Tech Stack**
+## **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres,aws,react,ts,python,cpp" />
 </p>
