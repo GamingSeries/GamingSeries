@@ -1,7 +1,7 @@
 <h1 align="center"> Muneeb Farooq – Pushing the Boundaries of Tech</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&center=true&vCenter=true&width=1000&lines=🚀+Bringing+2050+to+the+Present;AI+Cybersecurity+Visionary;Building+Hyper-Intelligent+Systems;Quantum+Computing+in+Action" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&center=true&vCenter=true&width=1000&lines= Bringing+2050+to+the+Present;AI+Cybersecurity+Visionary;Building+Hyper-Intelligent+Systems;Quantum+Computing+in+Action" />
 </p>
 
 ---
