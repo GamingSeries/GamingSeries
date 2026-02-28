@@ -4,7 +4,7 @@
 
 ## **About Me**
  Hey there! I’m **GamingSeries**, a developer  
-I work at the intersection of ** cybersecurity, and backend development**, designing systems that redefine automation and efficiency.
+I work at the intersection of **cybersecurity, and backend development**, designing systems that redefine automation and efficiency.
 
 -  **Building Next-Gen AI & API Systems**
 -  **Focused On:** API Dev, Cyber Protection
