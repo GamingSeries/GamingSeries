@@ -1,17 +1,13 @@
-<h1 align="center"> Muneeb Farooq – Pushing the Boundaries of Tech</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&center=true&vCenter=true&width=1000&lines= Bringing+2050+to+the+Present;AI+Cybersecurity+Visionary;Building+Hyper-Intelligent+Systems;Quantum+Computing+in+Action" />
-</p>
+<h1 align="center"> Muneeb Farooq</h1>
 
 ---
 
 ## **About Me**
- Hey there! I’m **GamingSeries**, a developer, AI enthusiast, and innovator.  
-I work at the intersection of **AI, cybersecurity, and backend development**, designing systems that redefine automation and efficiency.
+ Hey there! I’m **GamingSeries**, a developer  
+I work at the intersection of ** cybersecurity, and backend development**, designing systems that redefine automation and efficiency.
 
 -  **Building Next-Gen AI & API Systems**
--  **Focused On:** AI Security, API Dev, Cyber Protection
+-  **Focused On:** API Dev, Cyber Protection
 -  **Tech I Use:** **Next.js | NestJS | PostgreSQL | AWS | Python | TypeScript**
 -  **Future Goals:** AI-powered security tools, ML-based fraud detection
 
@@ -84,14 +80,14 @@ RAM Usage:
 Latest Solar Flare: 
 Next Satellite Launch: Fetching...
 ```
-## 🌐 Live System Stats
+## Live System Stats
 ```yaml
 OS: Linux 6.14.0-1017-azure x86_64
 Uptime: up 0 minutes
 CPU Usage: 
 RAM Usage: 
 ```
-## 🚀 Cosmic Feed
+## Cosmic Feed
 ```yaml
 Latest Solar Flare: 
 Next Satellite Launch: Fetching...
