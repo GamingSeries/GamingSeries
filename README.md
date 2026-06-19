@@ -1,105 +1,63 @@
-<h1 align="center"> Muneeb Farooq</h1>
+<h1 align="center">Muneeb Farooq</h1>
 
----
-
-## **About Me**
- Hey there! I’m Muneeb, a developer  
-I work at the intersection of cybersecurity, and backend development, designing systems that redefine automation and efficiency.
-
--  **Focused On:** API Dev, Cyber Protection
--  **Tech I Use:** **Next.js | NestJS | PostgreSQL | AWS | Python | TypeScript**
--  **Future Goals:** AI-powered security tools, ML-based fraud detection
-
----
-
-## **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres,aws,react,ts,python,cpp" />
+  <b>Backend &amp; Security Engineer</b> — building secure, scalable systems and developer-first APIs.
+</p>
+
+<p align="center">
+  <a href="https://neptlabs.com"><img src="https://img.shields.io/badge/Website-Neptune%20Labs-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/muneebfarooq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:info@neptlabs.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## **GitHub Stats**
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GamingSeries&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamingSeries&theme=radical" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamingSeries&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
+## About
+
+- 🔐 I work at the intersection of **cybersecurity** and **backend development**, designing systems built for automation, reliability, and efficiency.
+- 🚀 Builder at **[Neptune Labs](https://neptlabs.com)**, where I ship secure APIs and developer tooling.
+- ⚙️ **Focus areas:** API design, authentication & authorization, distributed backends.
+- 🌱 **Currently exploring:** AI-powered security tooling and ML-based fraud detection.
 
 ---
 
-##  **Latest Projects**
- [OneAPI](https://github.com/GamingSeries/OneAPI) – Secure, seamless API authentication  
- [AI Labs](https://github.com/GamingSeries/AILabs) – AI-driven API management  
- [Quantum Resonance Vehicle Identification (QRVI)](https://github.com/GamingSeries/QRVI) – Next-gen vehicle recognition  
+## Tech Stack
 
-**See more projects:** [GitHub Repositories](https://github.com/GamingSeries?tab=repositories)
-
----
-
-## **GitHub Activity**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GamingSeries&theme=react-dark" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,cpp,nodejs,nestjs,nextjs,react,postgres,redis,aws,docker,linux,git" alt="Tech stack" />
+</p>
 
 ---
 
-## **Current Focus**
-Optimizing **OneAPI** for large-scale authentication  
-Developing **QRVI System** for advanced vehicle recognition  
-Exploring **LLMs & Next.js enhancements**  
+## Featured Projects
+
+| Project | Description |
+| :------ | :---------- |
+| **[OneAPI](https://github.com/GamingSeries/OneAPI)** | Secure, seamless API authentication. |
+| **[AI Labs](https://github.com/GamingSeries/AILabs)** | AI-driven API management. |
+| **[QRVI](https://github.com/GamingSeries/QRVI)** | Quantum Resonance Vehicle Identification — next-gen vehicle recognition. |
+
+➡️ **[Browse all repositories](https://github.com/GamingSeries?tab=repositories)**
 
 ---
 
-## **Let's Connect**
-**Email:** info@neptlabs.com  
-**Website:** [Neptune Labs](https://neptlabs.com)  
-**LinkedIn:** [Muneeb Farooq](https://www.linkedin.com/in/muneebfarooq)  
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GamingSeries&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GamingSeries&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamingSeries&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GamingSeries&hide_border=true&theme=tokyo-night" alt="Contribution activity graph" />
+</p>
 
 ---
-## Live System Stats
-```yaml
-OS: Linux 6.11.0-1018-azure x86_64
-Uptime: up 0 minutes
-CPU Usage: 
-RAM Usage: 
-```
-## Cosmic Feed
-```yaml
-Latest Solar Flare: 
-Next Satellite Launch: Fetching...
-```
-## Live System Stats
-```yaml
-OS: Linux 6.14.0-1017-azure x86_64
-Uptime: up 0 minutes
-CPU Usage: 
-RAM Usage: 
-```
-## Cosmic Feed
-```yaml
-Latest Solar Flare: 
-Next Satellite Launch: Fetching...
-```
-## 🌐 Live System Stats
-```yaml
-OS: Linux 6.17.0-1018-azure x86_64
-Uptime: up 0 minutes
-CPU Usage: 
-RAM Usage: 
-```
-## 🚀 Cosmic Feed
-```yaml
-Latest Solar Flare: 
-Next Satellite Launch: Fetching...
-```
+
+<p align="center">
+  <i>Open to collaboration on backend, security, and developer-tooling projects — reach out via <a href="mailto:info@neptlabs.com">email</a> or <a href="https://www.linkedin.com/in/muneebfarooq">LinkedIn</a>.</i>
+</p>
