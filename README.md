@@ -89,13 +89,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 3 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.7 - Fiji region (2026-06-19 15:28 UTC) |
+| Latest M4.5+ earthquake (USGS) | M4.9 - 164 km SE of Kokopo, Papua New Guinea (2026-06-19 19:00 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-06-19 17:04 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-06-19 19:26 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
