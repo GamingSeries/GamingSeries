@@ -17,6 +17,16 @@
 
 ---
 
+## ISS Live Position
+
+<p align="center">
+  <img src="assets/iss.svg" width="900" alt="Live ISS position, ground track, and telemetry" />
+</p>
+
+<p align="center"><sub>Current position, next-orbit ground track, day/night terminator, and live telemetry. Source: wheretheiss.at tracking NORAD 25544, refreshed every 6 hours via GitHub Actions.</sub></p>
+
+---
+
 ## Snapshot
 
 <!-- SNAPSHOT:START -->
@@ -80,13 +90,12 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 3 tracked, 0 flagged potentially hazardous |
 | Latest M4.5+ earthquake (USGS) | M4.7 - Fiji region (2026-06-19 15:28 UTC) |
-| ISS ground position | -48.39, 68.17 |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-06-19 16:36 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-06-19 17:03 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">

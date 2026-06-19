@@ -10,10 +10,17 @@ import json
 import os
 import pathlib
 import re
+import sys
 import urllib.request
 
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import iss_graphic
+
 USER = "GamingSeries"
-README = pathlib.Path(__file__).resolve().parents[2] / "README.md"
+ROOT = pathlib.Path(__file__).resolve().parents[2]
+README = ROOT / "README.md"
+ASSET_DIR = ROOT / "assets"
+LAND = pathlib.Path(__file__).resolve().parents[1] / "data" / "land.json"
 GH_TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
 NASA_KEY = os.environ.get("NASA_API_KEY") or "DEMO_KEY"
 UA = {"User-Agent": "profile-dashboard"}
@@ -153,12 +160,39 @@ def build_signals():
             rows.append("| Latest M4.5+ earthquake (USGS) | None in the last 24h |")
     except Exception:
         rows.append("| Latest M4.5+ earthquake (USGS) | Unavailable |")
-    try:
-        d = get_json("https://api.wheretheiss.at/v1/satellites/25544")
-        rows.append(f"| ISS ground position | {d['latitude']:.2f}, {d['longitude']:.2f} |")
-    except Exception:
-        rows.append("| ISS ground position | Unavailable |")
     return "\n".join(rows)
+
+
+def update_iss_graphic():
+    """Regenerate assets/iss.svg from live ISS telemetry. Leaves the previous
+    file untouched on any failure so a transient outage never blanks it."""
+    try:
+        d = get_json("https://api.wheretheiss.at/v1/satellites/25544?units=kilometers")
+    except Exception:
+        return False
+    track = []
+    try:
+        now = int(datetime.datetime.now(datetime.timezone.utc).timestamp())
+        for base in range(2):  # two calls of 9 points = one ~90 min orbit
+            ts = ",".join(str(now + (base * 9 + i) * 330) for i in range(9))
+            arr = get_json(
+                f"https://api.wheretheiss.at/v1/satellites/25544/positions"
+                f"?timestamps={ts}&units=kilometers"
+            )
+            track += [[p["latitude"], p["longitude"]] for p in arr]
+    except Exception:
+        track = []
+    try:
+        polygons = json.loads(LAND.read_text(encoding="utf-8")).get("polygons", [])
+    except Exception:
+        polygons = []
+    try:
+        svg = iss_graphic.render_iss_svg(d, polygons, track)
+        ASSET_DIR.mkdir(exist_ok=True)
+        (ASSET_DIR / "iss.svg").write_text(svg, encoding="utf-8")
+        return True
+    except Exception:
+        return False
 
 
 def main():
@@ -178,6 +212,8 @@ def main():
         events = []
 
     last_active = events[0]["created_at"][:10] if events else "n/a"
+
+    print("ISS graphic refreshed:", update_iss_graphic())
 
     text = README.read_text(encoding="utf-8")
     text = replace_block(text, "SNAPSHOT", build_snapshot(user, repos, last_active))
