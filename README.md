@@ -10,14 +10,18 @@
   <a href="mailto:info@neptlabs.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <img src="assets/globe.svg" width="360" alt="Rotating globe with orbiting satellite" />
+</p>
+
 ---
 
 ## About
 
-- 🔐 I work at the intersection of **cybersecurity** and **backend development**, designing systems built for automation, reliability, and efficiency.
-- 🚀 Builder at **[Neptune Labs](https://neptlabs.com)**, where I ship secure APIs and developer tooling.
-- ⚙️ **Focus areas:** API design, authentication & authorization, distributed backends.
-- 🌱 **Currently exploring:** AI-powered security tooling and ML-based fraud detection.
+- I work at the intersection of cybersecurity and backend development, designing systems built for automation, reliability, and efficiency.
+- Builder at [Neptune Labs](https://neptlabs.com), shipping secure APIs and developer tooling.
+- Focus areas: API design, authentication and authorization, and distributed backends.
+- Currently exploring AI-powered security tooling and ML-based fraud detection.
 
 ---
 
@@ -37,7 +41,21 @@
 | **[AI Labs](https://github.com/GamingSeries/AILabs)** | AI-driven API management. |
 | **[QRVI](https://github.com/GamingSeries/QRVI)** | Quantum Resonance Vehicle Identification — next-gen vehicle recognition. |
 
-➡️ **[Browse all repositories](https://github.com/GamingSeries?tab=repositories)**
+**[Browse all repositories](https://github.com/GamingSeries?tab=repositories)**
+
+---
+
+## Live World Feed
+
+A snapshot of the planet, refreshed hourly via GitHub Actions (public data, no API keys).
+
+<!-- WORLD-FEED:START -->
+| Signal | Reading |
+| --- | --- |
+| ISS ground position | -28.05 deg, -19.92 deg |
+| Latest M4.5+ earthquake | M4.7 - Fiji region (2026-06-19 15:28 UTC) |
+| Last updated | 2026-06-19 16:18 UTC |
+<!-- WORLD-FEED:END -->
 
 ---
 
@@ -59,5 +77,5 @@
 ---
 
 <p align="center">
-  <i>Open to collaboration on backend, security, and developer-tooling projects — reach out via <a href="mailto:info@neptlabs.com">email</a> or <a href="https://www.linkedin.com/in/muneebfarooq">LinkedIn</a>.</i>
+  <i>Open to collaboration on backend, security, and developer-tooling projects. Reach out via <a href="mailto:info@neptlabs.com">email</a> or <a href="https://www.linkedin.com/in/muneebfarooq">LinkedIn</a>.</i>
 </p>
