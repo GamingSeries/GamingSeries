@@ -89,13 +89,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 3 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M5.7 - west of Macquarie Island (2026-06-20 01:46 UTC) |
+| Latest M4.5+ earthquake (USGS) | M5.5 - 160 km NE of Georgetown, Saint Helena (2026-06-20 06:43 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-06-20 02:31 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-06-20 08:41 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
