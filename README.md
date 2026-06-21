@@ -89,13 +89,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 6 tracked, 1 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.7 - 16 km E of Torata, Peru (2026-06-21 08:50 UTC) |
+| Latest M4.5+ earthquake (USGS) | M4.7 - 48 km S of Qapqal, China (2026-06-21 17:58 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-06-21 13:48 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-06-21 19:15 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
