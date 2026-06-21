@@ -88,14 +88,14 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 <!-- SIGNALS:START -->
 | Live signal | Reading |
 | :-- | :-- |
-| Near-Earth objects today (NASA) | 3 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.8 - 172 km SW of Hihifo, Tonga (2026-06-20 16:59 UTC) |
+| Near-Earth objects today (NASA) | 6 tracked, 1 flagged potentially hazardous |
+| Latest M4.5+ earthquake (USGS) | M4.7 - 115 km SE of Severo-Kuril’sk, Russia (2026-06-20 22:21 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-06-20 19:10 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-06-21 02:46 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
