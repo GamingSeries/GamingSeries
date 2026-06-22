@@ -88,14 +88,14 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 <!-- SIGNALS:START -->
 | Live signal | Reading |
 | :-- | :-- |
-| Near-Earth objects today (NASA) | 6 tracked, 1 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.7 - 48 km S of Qapqal, China (2026-06-21 17:58 UTC) |
+| Near-Earth objects today (NASA) | 7 tracked, 0 flagged potentially hazardous |
+| Latest M4.5+ earthquake (USGS) | M4.6 - 53 km NNE of Tobelo, Indonesia (2026-06-22 01:36 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-06-21 19:15 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-06-22 02:49 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
