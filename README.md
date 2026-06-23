@@ -89,13 +89,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 6 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M5.1 - 186 km N of Fais, Micronesia (2026-06-23 01:56 UTC) |
+| Latest M4.5+ earthquake (USGS) | M5 - 174 km E of Hihifo, Tonga (2026-06-23 07:11 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-06-23 02:14 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-06-23 08:59 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
