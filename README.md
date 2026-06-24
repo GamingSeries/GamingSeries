@@ -88,14 +88,14 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 <!-- SIGNALS:START -->
 | Live signal | Reading |
 | :-- | :-- |
-| Near-Earth objects today (NASA) | 6 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.5 - South Sandwich Islands region (2026-06-23 17:08 UTC) |
+| Near-Earth objects today (NASA) | 1 tracked, 0 flagged potentially hazardous |
+| Latest M4.5+ earthquake (USGS) | M5 - 71 km WNW of Catuday, Philippines (2026-06-24 02:04 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-06-23 19:50 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-06-24 02:26 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
