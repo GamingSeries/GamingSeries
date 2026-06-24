@@ -89,13 +89,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 1 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.9 - 28 km SE of Fry, Greece (2026-06-24 08:25 UTC) |
+| Latest M4.5+ earthquake (USGS) | M4.5 - south of the Fiji Islands (2026-06-24 13:19 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-06-24 08:53 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-06-24 14:07 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
