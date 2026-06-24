@@ -89,13 +89,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 1 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M5 - 71 km WNW of Catuday, Philippines (2026-06-24 02:04 UTC) |
+| Latest M4.5+ earthquake (USGS) | M4.9 - 28 km SE of Fry, Greece (2026-06-24 08:25 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-06-24 02:26 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-06-24 08:53 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
