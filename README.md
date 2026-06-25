@@ -89,13 +89,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 8 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M6.9 - 30 km ENE of Kuji, Japan (2026-06-24 22:30 UTC) |
+| Latest M4.5+ earthquake (USGS) | M5.4 - 58 km E of Kokopo, Papua New Guinea (2026-06-25 06:19 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-06-25 02:27 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-06-25 08:47 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
