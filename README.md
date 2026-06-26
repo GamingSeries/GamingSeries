@@ -88,14 +88,14 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 <!-- SIGNALS:START -->
 | Live signal | Reading |
 | :-- | :-- |
-| Near-Earth objects today (NASA) | 8 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.7 - 36 km NNE of Kuji, Japan (2026-06-25 16:11 UTC) |
+| Near-Earth objects today (NASA) | 8 tracked, 1 flagged potentially hazardous |
+| Latest M4.5+ earthquake (USGS) | M4.9 - 88 km SW of Nikolski, Alaska (2026-06-25 23:05 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-06-25 19:46 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-06-26 02:29 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
