@@ -89,13 +89,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 6 tracked, 1 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.5 - 200 km ENE of Levuka, Fiji (2026-06-27 12:35 UTC) |
+| Latest M4.5+ earthquake (USGS) | M4.7 - 231 km ESE of Attu Station, Alaska (2026-06-27 16:35 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-06-27 13:10 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-06-27 19:04 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
