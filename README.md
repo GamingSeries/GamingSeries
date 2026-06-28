@@ -89,13 +89,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 2 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M5.2 - 45 km NE of Port-Olry, Vanuatu (2026-06-28 07:05 UTC) |
+| Latest M4.5+ earthquake (USGS) | M4.5 - 225 km NE of Lospalos, Timor Leste (2026-06-28 11:35 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-06-28 08:40 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-06-28 13:17 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
