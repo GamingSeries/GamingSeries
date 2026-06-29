@@ -89,13 +89,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 2 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M5.1 - off the coast of Central America (2026-06-29 07:38 UTC) |
+| Latest M4.5+ earthquake (USGS) | M4.8 - 101 km ENE of Aksu, China (2026-06-29 12:33 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-06-29 10:22 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-06-29 15:30 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
