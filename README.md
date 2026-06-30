@@ -88,14 +88,14 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 <!-- SIGNALS:START -->
 | Live signal | Reading |
 | :-- | :-- |
-| Near-Earth objects today (NASA) | 2 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.9 - 234 km SSW of ‘Ohonua, Tonga (2026-06-29 18:47 UTC) |
+| Near-Earth objects today (NASA) | 4 tracked, 1 flagged potentially hazardous |
+| Latest M4.5+ earthquake (USGS) | M5.1 - South Sandwich Islands region (2026-06-30 00:15 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-06-29 19:43 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-06-30 02:30 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
