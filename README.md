@@ -88,13 +88,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 5 tracked, 1 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M5 - 16 km WNW of Tournavista, Peru (2026-07-01 02:00 UTC) |
+| Latest M4.5+ earthquake (USGS) | M4.5 - 83 km NNE of Ollagüe, Chile (2026-07-01 08:00 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-07-01 02:36 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-07-01 09:29 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
