@@ -32,7 +32,7 @@
 <!-- SNAPSHOT:START -->
 | Public repos | Total stars | Followers | Following | Member since | Last active |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| 10 | 2 | 6 | 7 | 2022 | 2026-06-19 |
+| 10 | 0 | 6 | 7 | 2022 | n/a |
 <!-- SNAPSHOT:END -->
 
 ---
@@ -42,11 +42,7 @@
 <!-- PROJECTS:START -->
 | Repository | Language | Stars | Updated | Description |
 | :-- | :-- | :--: | :--: | :-- |
-| [my-portfolio](https://github.com/GamingSeries/my-portfolio) | TypeScript | 1 | 2024-02-02 | - |
-| [learn_draft1](https://github.com/GamingSeries/learn_draft1) | Python | 0 | 2024-03-31 | fully functional backend and frontend website with multi platform compatibility, created using Python framework Django |
-| [weekly_report_system](https://github.com/GamingSeries/weekly_report_system) | Python | 0 | 2023-11-09 | - |
-| [Face_Recognition_System](https://github.com/GamingSeries/Face_Recognition_System) | Python | 0 | 2023-05-29 | - |
-| [Hospital_Management](https://github.com/GamingSeries/Hospital_Management) | Java | 0 | 2022-11-30 | - |
+| No public repositories found | - | - | - | - |
 <!-- PROJECTS:END -->
 
 <p align="center"><a href="https://github.com/GamingSeries?tab=repositories"><b>Browse all repositories</b></a></p>
@@ -56,9 +52,7 @@
 ## Recent Activity
 
 <!-- ACTIVITY:START -->
-- `2026-06-19` Pushed 4 commits to [GamingSeries/GamingSeries](https://github.com/GamingSeries/GamingSeries)
-- `2026-06-14` Created branch `claude/highwaycrm-repo-setup-113sxs` in [GamingSeries/GamingSeries](https://github.com/GamingSeries/GamingSeries)
-- `2026-06-11` Pushed 1 commit to [GamingSeries/GamingSeries](https://github.com/GamingSeries/GamingSeries)
+- No recent public activity.
 <!-- ACTIVITY:END -->
 
 ---
@@ -88,13 +82,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 7 tracked, 1 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.7 - 39 km E of Uonuma, Japan (2026-07-02 11:48 UTC) |
+| Latest M4.5+ earthquake (USGS) | M4.7 - 49 km NW of Yonakuni, Japan (2026-07-02 14:44 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-07-02 13:30 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-07-02 19:09 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
