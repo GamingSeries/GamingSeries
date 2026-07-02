@@ -87,14 +87,14 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 <!-- SIGNALS:START -->
 | Live signal | Reading |
 | :-- | :-- |
-| Near-Earth objects today (NASA) | 5 tracked, 1 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M5.5 - 50 km SW of Jurm, Afghanistan (2026-07-01 17:57 UTC) |
+| Near-Earth objects today (NASA) | 7 tracked, 1 flagged potentially hazardous |
+| Latest M4.5+ earthquake (USGS) | M4.8 - 20 km ESE of Chapimarca, Peru (2026-07-02 01:39 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-07-01 19:30 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-07-02 02:25 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
