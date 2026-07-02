@@ -88,13 +88,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 7 tracked, 1 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.8 - 20 km ESE of Chapimarca, Peru (2026-07-02 01:39 UTC) |
+| Latest M4.5+ earthquake (USGS) | M4.5 - 88 km WSW of Gorontalo, Indonesia (2026-07-02 05:50 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-07-02 02:25 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-07-02 08:42 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
