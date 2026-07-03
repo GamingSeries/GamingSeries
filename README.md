@@ -88,13 +88,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 1 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M5.9 - 296 km SSW of Severo-Kuril’sk, Russia (2026-07-03 08:22 UTC) |
+| Latest M4.5+ earthquake (USGS) | M4.9 - 18 km SW of Sarangani, Philippines (2026-07-03 10:10 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-07-03 08:49 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-07-03 13:43 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
