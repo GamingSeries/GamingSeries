@@ -88,13 +88,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 8 tracked, 2 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M5 - Reykjanes Ridge (2026-07-04 12:34 UTC) |
+| Latest M4.5+ earthquake (USGS) | M4.7 - Izu Islands, Japan region (2026-07-04 17:03 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-07-04 13:00 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-07-04 18:57 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
