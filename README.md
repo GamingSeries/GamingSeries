@@ -87,14 +87,14 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 <!-- SIGNALS:START -->
 | Live signal | Reading |
 | :-- | :-- |
-| Near-Earth objects today (NASA) | 1 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.8 - 24 km SE of Tambolaka, Indonesia (2026-07-03 17:14 UTC) |
+| Near-Earth objects today (NASA) | 8 tracked, 2 flagged potentially hazardous |
+| Latest M4.5+ earthquake (USGS) | M4.5 - Fiji region (2026-07-04 00:00 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-07-03 19:02 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-07-04 01:58 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
