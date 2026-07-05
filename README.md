@@ -88,13 +88,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 5 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.5 - south of the Fiji Islands (2026-07-04 23:51 UTC) |
+| Latest M4.5+ earthquake (USGS) | M5.3 - 71 km S of Severo-Kuril’sk, Russia (2026-07-05 07:37 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-07-05 02:06 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-07-05 08:41 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
