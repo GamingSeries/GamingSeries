@@ -88,13 +88,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 5 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.5 - 71 km W of Ovalle, Chile (2026-07-05 11:57 UTC) |
+| Latest M4.5+ earthquake (USGS) | M5 - 106 km NW of Coquimbo, Chile (2026-07-05 15:53 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-07-05 13:09 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-07-05 19:02 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
