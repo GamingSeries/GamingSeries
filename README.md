@@ -87,14 +87,14 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 <!-- SIGNALS:START -->
 | Live signal | Reading |
 | :-- | :-- |
-| Near-Earth objects today (NASA) | 8 tracked, 2 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.7 - Izu Islands, Japan region (2026-07-04 17:03 UTC) |
+| Near-Earth objects today (NASA) | 5 tracked, 0 flagged potentially hazardous |
+| Latest M4.5+ earthquake (USGS) | M4.5 - south of the Fiji Islands (2026-07-04 23:51 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-07-04 18:57 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-07-05 02:06 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
