@@ -87,14 +87,14 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 <!-- SIGNALS:START -->
 | Live signal | Reading |
 | :-- | :-- |
-| Near-Earth objects today (NASA) | 3 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.6 - 52 km E of Noda, Japan (2026-07-06 17:09 UTC) |
+| Near-Earth objects today (NASA) | 4 tracked, 0 flagged potentially hazardous |
+| Latest M4.5+ earthquake (USGS) | M5.9 - Drake Passage (2026-07-07 01:26 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-07-06 19:43 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-07-07 02:07 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
