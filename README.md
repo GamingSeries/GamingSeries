@@ -88,13 +88,13 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 | Live signal | Reading |
 | :-- | :-- |
 | Near-Earth objects today (NASA) | 4 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M5.3 - 10 km WSW of Orotina, Costa Rica (2026-07-07 18:11 UTC) |
+| Latest M4.5+ earthquake (USGS) | M4.6 - 132 km WNW of Ternate, Indonesia (2026-07-07 23:35 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-07-07 19:41 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-07-08 01:48 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
