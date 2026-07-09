@@ -87,14 +87,14 @@ Public space and earth data, refreshed automatically (no manual updates, no API 
 <!-- SIGNALS:START -->
 | Live signal | Reading |
 | :-- | :-- |
-| Near-Earth objects today (NASA) | 4 tracked, 0 flagged potentially hazardous |
-| Latest M4.5+ earthquake (USGS) | M4.5 - 7 km NNW of Ābdānān, Iran (2026-07-08 15:22 UTC) |
+| Near-Earth objects today (NASA) | 3 tracked, 1 flagged potentially hazardous |
+| Latest M4.5+ earthquake (USGS) | M4.7 - 134 km E of Bitung, Indonesia (2026-07-09 01:16 UTC) |
 <!-- SIGNALS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Auto-refreshed 2026-07-08 19:08 UTC via GitHub Actions</sub></p>
+<p align="center"><sub>Auto-refreshed 2026-07-09 02:00 UTC via GitHub Actions</sub></p>
 <!-- UPDATED:END -->
 
 <p align="center">
